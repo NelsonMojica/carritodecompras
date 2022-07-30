@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/NelsonMojica/carritodecompras.git/static/css/main.5d1ee1d1.css",
-    "main.js": "//github.com/NelsonMojica/carritodecompras.git/static/js/main.352f084c.js",
-    "index.html": "//github.com/NelsonMojica/carritodecompras.git/index.html",
-    "main.5d1ee1d1.css.map": "//github.com/NelsonMojica/carritodecompras.git/static/css/main.5d1ee1d1.css.map",
-    "main.352f084c.js.map": "//github.com/NelsonMojica/carritodecompras.git/static/js/main.352f084c.js.map"
+    "main.css": "//NelsonMojica/carritodecompras.git/static/css/main.5d1ee1d1.css",
+    "main.js": "//NelsonMojica/carritodecompras.git/static/js/main.352f084c.js",
+    "index.html": "//NelsonMojica/carritodecompras.git/index.html",
+    "main.5d1ee1d1.css.map": "//NelsonMojica/carritodecompras.git/static/css/main.5d1ee1d1.css.map",
+    "main.352f084c.js.map": "//NelsonMojica/carritodecompras.git/static/js/main.352f084c.js.map"
   },
   "entrypoints": [
     "static/css/main.5d1ee1d1.css",
